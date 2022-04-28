@@ -1,0 +1,33 @@
+body{
+    background-image: url("https://www.justcolor.net/wp-content/uploads/2015/06/doodle-art.jpg");
+ background-repeat: no-repeat; 
+ background-size: cover;  
+ background-position: center;
+ text-align: center;
+ font-family: 'Satisfy', cursive;
+ }
+ #btn1{
+     background-color: aqua;
+     font-size: 18px;
+     font-family: 'Satisfy', cursive;
+ }
+ #first,#sec,#third{
+background-color: pink;
+border-radius: 5px;
+
+ }
+ #btn2{
+    background-color: peachpuff;
+    font-size: 18px;
+    font-family: 'Satisfy', cursive;
+}
+#sec,#third{
+    font-size: 19px;
+    width: 40%;
+    float: none;
+    border-radius: 5px;
+}
+canvas{
+    border: 10px aqua solid;
+    background-color: white;
+}
